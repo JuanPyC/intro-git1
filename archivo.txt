@@ -1,0 +1,2 @@
+primer archivo de texto
+se agrega un cambio desde rama1
